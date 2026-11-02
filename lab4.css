@@ -6,6 +6,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    gap: 15px;
 
 }
 
@@ -19,5 +20,5 @@ body {
     color: white;
     background-color: blue;
     padding: 5px;
-    margin-left: 150px;
+
 }
